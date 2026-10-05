@@ -1,4 +1,4 @@
-# NEWTON Platform 🚀
+# NEWTON PLATFORM 🚀
 
 A modern, mobile-first web application for a **digital equipment leasing ecosystem**.
 Built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no dependencies.
